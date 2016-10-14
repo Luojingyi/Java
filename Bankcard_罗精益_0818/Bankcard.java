@@ -1,7 +1,7 @@
 import java.util.Scanner ;
 public class Bankcard{
 public static void main(String[] args) {
-	
+	int a=1;
 	float balance = 10000 ;   //余额为10000元
 	Scanner  a = new Scanner(System.in); //调用键盘输入
 	System.out.println("请输入你要取的金额");
